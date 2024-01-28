@@ -1,4 +1,5 @@
 Pandas Challenge Data Analysis Report
+
 Luis Herran
 
 Overall the merged data shows a summary of 15 schools, both Charter and District high schools, with information regarding the number of students, individual test scores and funding. Different analyses were performed on this data set to understand the impact that variables such as number of students, school type and funding has on the overall test scores for the students in the individual schools. 
